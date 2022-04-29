@@ -1,4 +1,4 @@
-# traffic-generator
+# K8S Risk Analysis
 
 This project is use case to scans k8s manifest files.
 
