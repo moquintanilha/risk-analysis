@@ -26,3 +26,8 @@ In this phase, all manifest files present in the indicated path are analyzed and
 
 ![report](./assets/report.png)
 
+# Contributions
+
+To contribute and report problems is very easy, just follow this [Doc](https://github.com/moquintanilha/risk-analysis/blob/main/docs/contribution/README.md)
+
+
