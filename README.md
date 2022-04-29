@@ -12,7 +12,7 @@ This project is based on [kubescape](https://github.com/armosec/kubescape), an o
 
 In this step, the developer or operator publishes a new manifest to the git repository to deploy a new application on the k8s cluster. 
 
-This action is usually accompanied by the command ```git push``.
+This action is usually accompanied by the command ```git push```.
 
 ## Step 2 - Pipeline triggering
 
