@@ -20,7 +20,7 @@ When the new manifest is uploaded, the pipeline fires and starts running.
 
 In this phase of the function ```install()``` on python script (```./todo/install-kubescape-cli.py```). is runnning by makefile target.
 
-## Step - Scan and Vulnerabilities Report
+## Step 3 - Scan and Vulnerabilities Report
 
 In this phase, all manifest files present in the indicated path are analyzed and as a result a report like this can be seen in the pipeline:
 
