@@ -1,4 +1,4 @@
-core: install-kubescape
+core: install-kubescape-cli
 
 install-kubescape-cli:
 	@echo 'Installing Kubescape'
